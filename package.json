@@ -1,0 +1,29 @@
+{
+  "name": "Express-Mongo-scraping-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred1525/Express-Mongo-scraping-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fred1525/Express-Mongo-scraping-11/issues"
+  },
+  "homepage": "https://github.com/fred1525/Express-Mongo-scraping-11#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "mongojs": "^3.1.0"
+  }
+}
